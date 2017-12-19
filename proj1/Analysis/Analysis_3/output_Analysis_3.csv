@@ -1,0 +1,336 @@
+Airport_code,Total_number_of_flights,airport,city,state,country,lat,long
+ORD,211775,Chicago O'Hare International,Chicago,IL,USA,41.979595,-87.90446417
+ATL,197320,William B Hartsfield-Atlanta Intl,Atlanta,GA,USA,33.64044444,-84.42694444
+DFW,183262,Dallas-Fort Worth International,Dallas-Fort Worth,TX,USA,32.89595056,-97.0372
+LAX,131512,Los Angeles International,Los Angeles,CA,USA,33.94253611,-118.40807439999999
+PHX,111128,Phoenix Sky Harbor International,Phoenix,AZ,USA,33.43416667,-112.00805559999999
+DEN,109910,Denver Intl,Denver,CO,USA,39.85840806,-104.6670019
+DTW,96583,Detroit Metropolitan-Wayne County,Detroit,MI,USA,42.21205889,-83.34883583
+SFO,91660,San Francisco International,San Francisco,CA,USA,37.61900194,-122.3748433
+IAH,91073,George Bush Intercontinental,Houston,TX,USA,29.98047222,-95.33972222
+STL,90898,Lambert-St Louis International,St Louis,MO,USA,38.74768694,-90.35998972
+EWR,88960,Newark Intl,Newark,NJ,USA,40.69249722,-74.16866056
+MSP,87829,Minneapolis-St Paul Intl,Minneapolis,MN,USA,44.88054694,-93.2169225
+CLT,84182,Charlotte/Douglas International,Charlotte,NC,USA,35.21401111,-80.94312583
+LAS,81986,McCarran International,Las Vegas,NV,USA,36.08036111,-115.15233329999998
+LGA,75090,LaGuardia,New York,NY,USA,40.77724306,-73.87260917
+BOS,73496,Gen Edw L Logan Intl,Boston,MA,USA,42.3643475,-71.00517917
+PIT,71977,Pittsburgh International,Pittsburgh,PA,USA,40.49146583,-80.23287083
+PHL,68811,Philadelphia Intl,Philadelphia,PA,USA,39.87195278,-75.24114083
+SLC,63858,Salt Lake City Intl,Salt Lake City,UT,USA,40.78838778,-111.9777731
+SEA,63054,Seattle-Tacoma Intl,Seattle,WA,USA,47.44898194,-122.30931310000001
+MCO,62875,Orlando International,Orlando,FL,USA,28.42888889,-81.31602778
+CVG,61442,Cincinnati Northern Kentucky Intl,Covington,KY,USA,39.04614278,-84.6621725
+DCA,60880,Ronald Reagan Washington National,Arlington,VA,USA,38.85208333,-77.03772222
+BWI,53643,Baltimore-Washington International,Baltimore,MD,USA,39.17540167,-76.66819833
+SAN,49279,San Diego International-Lindbergh ,San Diego,CA,USA,32.73355611,-117.1896567
+MIA,48266,Miami International,Miami,FL,USA,25.79325,-80.29055556
+CLE,47269,Cleveland-Hopkins Intl,Cleveland,OH,USA,41.41089417,-81.84939667
+IAD,42814,Washington Dulles International,Chantilly,VA,USA,38.94453194,-77.45580972
+TPA,42482,Tampa International ,Tampa,FL,USA,27.97547222,-82.53325
+JFK,41456,John F Kennedy Intl,New York,NY,USA,40.63975111,-73.77892556
+MEM,40660,Memphis International,Memphis,TN,USA,35.04241667,-89.97666667
+HOU,40000,William P Hobby,Houston,TX,USA,29.64541861,-95.27888889
+BNA,38873,Nashville International,Nashville,TN,USA,36.12447667,-86.67818222
+MCI,38163,Kansas City International,Kansas City,MO,USA,39.29760528,-94.71390556
+OAK,36004,Metropolitan Oakland International,Oakland,CA,USA,37.72129083,-122.22071670000001
+MDW,35860,Chicago Midway,Chicago,IL,USA,41.7859825,-87.75242444
+SJC,34868,San Jose International,San Jose,CA,USA,37.36186194,-121.92900890000001
+RDU,34660,Raleigh-Durham International,Raleigh,NC,USA,35.87763889,-78.78747222
+PDX,33609,Portland Intl,Portland,OR,USA,45.58872222,-122.5975
+FLL,31977,Fort Lauderdale-Hollywood Int'l,Ft. Lauderdale,FL,USA,26.07258333,-80.15275
+MSY,31233,New Orleans International ,New Orleans,LA,USA,29.99338889,-90.25802778
+DAL,31039,Dallas Love ,Dallas,TX,USA,32.84711389,-96.85177222
+IND,27120,Indianapolis International,Indianapolis,IN,USA,39.71732917,-86.29438417
+SAT,25996,San Antonio International,San Antonio,TX,USA,29.53369444,-98.46977778
+SNA,25892,John Wayne /Orange Co,Santa Ana,CA,USA,33.67565861,-117.86822250000002
+ONT,25749,Ontario International,Ontario,CA,USA,34.056,-117.60119440000001
+AUS,25532,Austin-Bergstrom International,Austin,TX,USA,30.19453278,-97.66987194
+SMF,25374,Sacramento International,Sacramento,CA,USA,38.69542167,-121.5907669
+ABQ,24572,Albuquerque International,Albuquerque,NM,USA,35.04022222,-106.6091944
+CMH,24417,Port Columbus Intl,Columbus,OH,USA,39.99798528,-82.89188278
+BDL,20995,Bradley International,Windsor Locks,CT,USA,41.93887417,-72.68322833
+BUR,18852,Burbank-Glendale-Pasadena,Burbank,CA,USA,34.20061917,-118.3584969
+PBI,17513,Palm Beach International,West Palm Beach,FL,USA,26.68316194,-80.09559417
+ELP,17176,El Paso International,El Paso,TX,USA,31.80666667,-106.37780559999999
+JAX,16694,Jacksonville International,Jacksonville,FL,USA,30.49405556,-81.68786111
+RNO,16598,Reno/Tahoe International,Reno,NV,USA,39.49857611,-119.76806470000001
+BUF,16476,Buffalo Niagara Intl,Buffalo,NY,USA,42.94052472,-78.73216667
+OKC,16109,Will Rogers World,Oklahoma City,OK,USA,35.39308833,-97.60073389
+HNL,15747,Honolulu International,Honolulu,HI,USA,21.31869111,-157.92240719999998
+TUL,15732,Tulsa International,Tulsa,OK,USA,36.19837222,-95.88824167
+SDF,15153,Louisville International-Standiford ,Louisville,KY,USA,38.17438889,-85.736
+ORF,14693,Norfolk International,Norfolk,VA,USA,36.89461111,-76.20122222
+SJU,14627,Luis Munoz Marin International,San Juan,PR,USA,18.43941667,-66.00183333
+MKE,14514,General Mitchell International,Milwaukee,WI,USA,42.94722222,-87.89658333
+DAY,13940,James M Cox Dayton Intl,Dayton,OH,USA,39.90237583,-84.219375
+GSO,13496,Piedmont Triad International,Greensboro,NC,USA,36.09774694,-79.9372975
+TUS,13384,Tucson International,Tucson,AZ,USA,32.11608333,-110.94102779999999
+PVD,13291,Theodore F Green State,Providence,RI,USA,41.72399917,-71.42822111
+OMA,13276,Eppley Airfield,Omaha,NE,USA,41.30251861,-95.89417306
+BHM,13169,Birmingham International,Birmingham,AL,USA,33.56294306,-86.75354972
+RSW,12852,Southwest Florida International,Ft. Myers,FL,USA,26.53616667,-81.75516667
+ANC,12630,Ted Stevens Anchorage International,Anchorage,AK,USA,61.17432028,-149.9961856
+ROC,12607,Greater Rochester Int'l,Rochester,NY,USA,43.11886611,-77.67238389
+SYR,12351,Syracuse-Hancock Intl,Syracuse,NY,USA,43.11118694,-76.10631056
+RIC,11759,Richmond International,Richmond,VA,USA,37.50516667,-77.31966667
+LIT,10800,Adams ,Little Rock,AR,USA,34.72939611,-92.22424556
+ALB,9348,Albany Cty,Albany,NY,USA,42.74811944,-73.80297861
+COS,8806,City of Colorado Springs Muni,Colorado Springs,CO,USA,38.80580556,-104.70025
+GEG,8454,Spokane Intl,Spokane,WA,USA,47.61985556,-117.5338425
+GRR,7774,Kent County International,Grand Rapids,MI,USA,42.88081972,-85.52276778
+CHS,7607,Charleston AFB/International,Charleston,SC,USA,32.89864639,-80.04050583
+DSM,7466,Des Moines International,Des Moines,IA,USA,41.53493306,-93.66068222
+BOI,7291,Boise Air Terminal,Boise,ID,USA,43.56444444,-116.22277779999999
+ICT,7283,Wichita Mid-Continent,Wichita,KS,USA,37.64995889,-97.43304583
+TYS,6724,McGhee-Tyson,Knoxville,TN,USA,35.81248722,-83.99285583
+MHT,6659,Manchester,Manchester,NH,USA,42.93451639,-71.43705583
+GSP,6610,Greenville-Spartanburg,Greer,SC,USA,34.89566722,-82.21885833
+JAN,6289,Jackson International,Jackson,MS,USA,32.31116667,-90.07588889
+SAV,6067,Savannah International,Savannah,GA,USA,32.12758333,-81.20213889
+SRQ,5864,Sarasota Bradenton International,Sarasota,FL,USA,27.39533333,-82.55411111
+CAE,5831,Columbia Metropolitan,Columbia,SC,USA,33.93884,-81.11953944
+LBB,5819,Lubbock International,Lubbock,TX,USA,33.66363889,-101.8227778
+MDT,5474,Harrisburg Intl,Harrisburg,PA,USA,40.19349528,-76.76340361
+HSV,5305,Huntsville International ,Huntsville,AL,USA,34.6404475,-86.77310944
+MAF,5250,Midland International,Midland,TX,USA,31.94252778,-102.20191390000001
+LGB,5144,Long Beach (Daugherty ),Long Beach,CA,USA,33.81772222,-118.1516111
+PNS,5144,Pensacola Regional,Pensacola,FL,USA,30.47330556,-87.18744444
+PWM,5112,Portland International Jetport,Portland,ME,USA,43.64616667,-70.30875
+BTR,5090,"Baton Rouge Metropolitan, Ryan ",Baton Rouge,LA,USA,30.53316083,-91.14963444
+ISP,4782,Long Island - MacArthur,Islip,NY,USA,40.7952425,-73.10021194
+OGG,4686,Kahului,Kahului,HI,USA,20.89864972,-156.43045780000003
+PSP,4597,Palm Springs International,Palm Springs,CA,USA,33.82921556,-116.5062531
+MSN,4595,Dane County Regional,Madison,WI,USA,43.13985778,-89.33751361
+LEX,4458,Blue Grass ,Lexington,KY,USA,38.03697222,-84.60538889
+FAT,4387,Fresno Yosemite International,Fresno,CA,USA,36.77619444,-119.7181389
+AMA,4357,Amarillo International,Amarillo,TX,USA,35.2193725,-101.7059272
+SHV,4234,Shreveport Regional,Shreveport,LA,USA,32.446627500000005,-93.82559833
+CID,4231,Eastern Iowa ,Cedar Rapids,IA,USA,41.88458833,-91.71087222
+ABE,4215,Lehigh Valley International,Allentown,PA,USA,40.65236278,-75.44040167
+MOB,4163,Mobile Regional,Mobile,AL,USA,30.69141667,-88.24283333
+CRP,3937,Corpus Christi International,Corpus Christi,TX,USA,27.77036083,-97.50121528
+HRL,3919,Valley International,Harlingen,TX,USA,26.22850611,-97.65439389
+HPN,3789,Westchester Cty,White Plains,NY,USA,41.06695778,-73.70757444
+TLH,3721,Tallahassee Regional,Tallahassee,FL,USA,30.39652778,-84.35033333
+BTV,3679,Burlington International,Burlington,VT,USA,44.47300361,-73.1503125
+SBA,3603,Santa Barbara Municipal,Santa Barbara,CA,USA,34.42621194,-119.8403733
+FSD,3586,Joe Foss ,Sioux Falls,SD,USA,43.58135111,-96.74170028
+BIL,3310,Billings Logan Intl,Billings,MT,USA,45.8076625,-108.54286110000001
+FAI,3181,Fairbanks International,Fairbanks,AK,USA,64.8136775,-147.8596694
+DAB,3142,Daytona Beach International,Daytona Beach,FL,USA,29.17991667,-81.05805556
+JNU,2874,Juneau International,Juneau,AK,USA,58.35496194,-134.57627639999998
+CAK,2674,Akron-Canton Regional,Akron,OH,USA,40.91631194,-81.44246556
+GRB,2659,Austin Straubel International,Green Bay,WI,USA,44.48507333,-88.12959000000001
+MYR,2644,Myrtle Beach International,Myrtle Beach,SC,USA,33.67975,-78.92833333
+MLI,2641,Quad City,Moline,IL,USA,41.44852639,-90.50753917
+MBS,2599,Mbs International,Saginaw,MI,USA,43.53291472,-84.07964722
+FWA,2511,Fort Wayne International,Fort Wayne,IN,USA,40.97846583,-85.19514639
+CHA,2463,Lovell ,Chattanooga,TN,USA,35.03526833,-85.20378778
+SGF,2441,Springfield-Branson Regional,Springfield,MO,USA,37.24432611,-93.38685806
+EUG,2438,Mahlon Sweet ,Eugene,OR,USA,44.123259999999995,-123.21868559999999
+ROA,2437,Roanoke Regional/ Woodrum ,Roanoke,VA,USA,37.32546833,-79.97542833
+LNK,2374,Lincoln Municipal,Lincoln,NE,USA,40.85097222,-96.75925
+BZN,2348,Gallatin ,Bozeman,MT,USA,45.77690139,-111.15300719999999
+MLB,2334,Melbourne International ,Melbourne,FL,USA,28.10275,-80.64580556
+SBN,2235,South Bend Regional,South Bend,IN,USA,41.70895361,-86.31847417
+CRW,2174,Yeager,Charleston,WV,USA,38.37315083,-81.59318972
+LAN,2127,Capital City,Lansing,MI,USA,42.7787,-84.58735806
+MRY,2114,Monterey Peninsula,Monterey,CA,USA,36.5869825,-121.84294779999999
+MFE,2093,McAllen Miller International,McAllen,TX,USA,26.17583333,-98.23861111
+GTF,2083,Great Falls Intl,Great Falls,MT,USA,47.48200194,-111.37068529999999
+FAR,2081,Hector International,Fargo,ND,USA,46.91934889,-96.81498889
+AGS,2070,Bush ,Augusta,GA,USA,33.369955,-81.96449611
+AZO,2065,Kalamazoo County,Kalamazoo,MI,USA,42.234875,-85.55205749999999
+XNA,2043,Northwest Arkansas Regional,Fayetteville/Springdale/Rogers,AR,USA,36.28186944,-94.30681111
+KOA,2038,Kona International At Keahole,Kailua/Kona,HI,USA,19.73876583,-156.0456314
+RST,1994,Rochester International,Rochester,MN,USA,43.90882639,-92.49798722
+TOL,1986,Toledo Express,Toledo,OH,USA,41.58680556,-83.80783333
+LIH,1966,Lihue,Lihue,HI,USA,21.97598306,-159.3389581
+ILM,1946,Wilmington International,Wilmington,NC,USA,34.27061111,-77.90255556
+STT,1907,Cyril E. King,Charlotte Amalie,VI,USA,18.33730556,-64.97336111
+MGM,1895,Montgomery Regional Apt,Montgomery,AL,USA,32.30064417,-86.39397611
+AVL,1867,Asheville Regional,Asheville,NC,USA,35.43619444,-82.54180556
+SWF,1860,Stewart,Newburgh,NY,USA,41.50409361,-74.10483833
+RAP,1849,Rapid City Regional,Rapid City,SD,USA,44.04532139,-103.0573708
+MSO,1826,Missoula International,Missoula,MT,USA,46.91630556,-114.09055559999999
+TRI,1806,Tri-Cities Regional,Bristol,TN,USA,36.47521417,-82.40742056
+MFR,1790,Rogue Valley International,Medford,OR,USA,42.37422778,-122.8734978
+BIS,1743,Bismarck Municipal,Bismarck,ND,USA,46.77411111,-100.74672220000001
+MLU,1721,Monroe Regional,Monroe,LA,USA,32.51086556,-92.03768778
+KTN,1698,Ketchikan International,Ketchikan,AK,USA,55.35556861,-131.71374
+FAY,1667,Fayetteville Municipal,Fayetteville,NC,USA,34.99147222,-78.88
+BGR,1660,Bangor International,Bangor,ME,USA,44.80744444,-68.82813889
+FNT,1637,Bishop,Flint,MI,USA,42.96550333,-83.74345639
+VPS,1635,Eglin Air Force Base,Valparaiso,FL,USA,30.48325,-86.5254
+AVP,1572,Wilkes-Barre/Scranton Intl,Wilkes-Barre/Scranton,PA,USA,41.33814944,-75.72426750000001
+EVV,1533,Evansville Regional,Evansville,IN,USA,38.03799139,-87.53062667
+JAC,1485,Jackson Hole,Jackson,WY,USA,43.60732417,-110.7377389
+PIA,1466,Greater Peoria Regional,Peoria,IL,USA,40.66424333,-89.69330556
+GPT,1404,Gulfport-Biloxi Regional,Gulfport-Biloxi,MS,USA,30.40728028,-89.07009278
+PHF,1341,Newport News/Williamsburg International,Newport News,VA,USA,37.13189556,-76.4929875
+PSC,1303,Tri-Cities,Pasco,WA,USA,46.26468028,-119.11902920000001
+GNV,1296,Gainesville Regional,Gainesville,FL,USA,29.69005556,-82.27177778
+BFL,1197,Meadows ,Bakersfield,CA,USA,35.43359806,-119.05676809999999
+IDA,1190,Idaho Falls Regional,Idaho Falls,ID,USA,43.51455556,-112.07016670000002
+GJT,1176,Walker ,Grand Junction,CO,USA,39.1224125,-108.5267347
+LFT,1073,Lafayette Regional,Lafayette,LA,USA,30.20527972,-91.987655
+DLH,1065,Duluth International,Duluth,MN,USA,46.84209028,-92.19364861
+ERI,1046,Erie Intl,Erie,PA,USA,42.08202139,-80.17621556
+SBP,1034,San Luis Obispo Co-McChesney ,San Luis Obispo,CA,USA,35.23705806,-120.64239309999999
+STX,1030,Henry E. Rohlsen ,Christiansted,VI,USA,17.70188889,-64.79855556
+DET,1027,Detroit City,Detroit,MI,USA,42.40919444,-83.00986111
+FCA,965,Glacier Park Intl,Kalispell,MT,USA,48.31140472,-114.25506940000001
+BGM,965,Binghamton Regional,Binghamton,NY,USA,42.20848278,-75.97961361
+SIT,950,Sitka,Sitka,AK,USA,57.04713806,-135.3615983
+TVC,943,Cherry Capital,Traverse City,MI,USA,44.74144472,-85.582235
+MOT,936,Minot International,Minot,ND,USA,48.25937778,-101.2803339
+ELM,930,Elmira/Corning Regional,Elmira,NY,USA,42.15991361,-76.89144333
+LSE,916,La Crosse Municipal,La Crosse,WI,USA,43.87937972,-91.25653778
+CPR,914,Natrona County Intl,Casper,WY,USA,42.90835556,-106.46446609999998
+HLN,913,Helena Regional,Helena,MT,USA,46.60681806,-111.9827503
+ITO,887,Hilo International,Hilo,HI,USA,19.72026306,-155.04847030000002
+CMI,856,University of Illinois-Willard,Champaign/Urbana,IL,USA,40.03925,-88.27805556
+YUM,835,Yuma MCAS-Yuma International,Yuma,AZ,USA,32.65658333,-114.60597220000001
+GFK,823,Grand Forks International,Grand Forks,ND,USA,47.949255,-97.17611111
+PFN,793,Panama City-Bay County International,Panama City,FL,USA,30.21208333,-85.68280556
+ATW,774,Outagamie County Regional,Appleton,WI,USA,44.25740806,-88.51947556
+SUX,760,Sioux Gateway ,Sioux City,IA,USA,42.40260333,-96.38436694
+ACV,721,Arcata,Arcata/Eureka,CA,USA,40.97811528,-124.1086189
+HTS,700,Tri-State/Walker-Long ,Huntington,WV,USA,38.36666667,-82.55802778
+GUM,700,Guam International,Agana,GU,USA,13.48345,-144.7959825
+ITH,695,Tompkins Cty ,Ithaca,NY,USA,42.49102778,-76.45844444
+OME,667,Nome,Nome,AK,USA,64.51220222,-165.4452458
+CSG,662,Columbus Metropolitan,Columbus,GA,USA,32.51633333,-84.93886111
+CHO,648,Charlottesville-Albermarle,Charlottesville,VA,USA,38.13863889,-78.45286111
+OTZ,647,Ralph Wien Memorial,Kotzebue,AK,USA,66.88467694,-162.5985497
+FLG,644,Flagstaff Pulliam,Flagstaff,AZ,USA,35.13845472,-111.67121829999999
+EGE,636,Eagle County Regional,Eagle,CO,USA,39.64256778,-106.91769529999999
+BET,626,Bethel,Bethel,AK,USA,60.77977639,-161.8379975
+BMI,620,Central Illinois Regional,Bloomington,IL,USA,40.47798556,-88.91595278
+RDM,605,Roberts ,Redmond,OR,USA,44.25406722,-121.1499633
+DRO,601,Durango-La Plata County,Durango,CO,USA,37.15151667,-107.75376920000001
+HDN,580,Yampa Valley,Hayden,CO,USA,40.48118028,-107.21765970000001
+GRK,567,Robert Gray AAF,Killeen,TX,USA,31.06489778,-97.82779778
+ORH,564,Worcester Regional,Worcester,MA,USA,42.26733944,-71.87570944
+SGU,552,St George Muni,St George,UT,USA,37.09058333,-113.59305559999999
+CDV,540,Merle K (Mudhole) Smith,Cordova,AK,USA,60.49183389,-145.4776503
+SUN,513,Friedman Memorial,Hailey,ID,USA,43.50484139,-114.29659029999999
+WRG,497,Wrangell,Wrangell,AK,USA,56.48432583,-132.3698242
+EYW,496,Key West International,Key West,FL,USA,24.55611111,-81.75955556
+AEX,490,Alexandria International,Alexandria,LA,USA,31.32737167,-92.54855611
+PSG,483,James C. Johnson Petersburg,Petersburg,AK,USA,56.80165194,-132.9452781
+MTJ,474,Montrose Regional,Montrose,CO,USA,38.50886722,-107.89383329999998
+YAK,469,Yakutat,Yakutat,AK,USA,59.50336056,-139.6602261
+CLL,450,Easterwood ,College Station,TX,USA,30.58858944,-96.36382417
+ABI,445,Abilene Regional,Abilene,TX,USA,32.41132,-99.68189722
+SPN,443,Tinian International Airport,,,N Mariana Islands,14.996110999999999,145.621384
+BRO,442,Brownsville/S.Padre Island International,Brownsville,TX,USA,25.90683333,-97.42586111
+OAJ,439,Albert J Ellis,Jacksonville,NC,USA,34.82916444,-77.61213778
+ACT,435,Waco Regional,Waco,TX,USA,31.61128833,-97.23051917
+ASE,426,Aspen-Pitkin Co/Sardy ,Aspen,CO,USA,39.22316,-106.868845
+BRW,414,Wiley Post Will Rogers Memorial,Barrow,AK,USA,71.2854475,-156.76600190000002
+LRD,408,Laredo International,Laredo,TX,USA,27.54373861,-99.46154361
+TYR,402,Tyler Pounds ,Tyler,TX,USA,32.35413889,-95.40238611
+FSM,394,Fort Smith Regional,Fort Smith,AR,USA,35.33659028,-94.36744111
+LAW,383,Lawton-Ft Sill Regional,Lawton,OK,USA,34.56771444,-98.41663667
+RDD,382,Redding Municipal,Redding,CA,USA,40.50898361,-122.2934019
+CLD,373,MC Clellan-Palomar Airport,,,USA,33.127231,-117.278727
+TWF,367,Joslin Field - Magic Valley,Twin Falls,ID,USA,42.48180389,-114.4877356
+SCC,366,Deadhorse,Deadhorse,AK,USA,70.19475583,-148.4651608
+BTM,363,Bert Mooney,Butte,MT,USA,45.95479528,-112.49746
+EKO,355,Elko Regional,Elko,NV,USA,40.82492611,-115.79169640000002
+SPS,351,Sheppard AFB/Wichita Falls Municipal,Wichita Falls,TX,USA,33.98879611,-98.49189333
+MOD,348,Modesto City-County-Harry Sham ,Modesto,CA,USA,37.62581722,-120.95442140000002
+PUB,344,Pueblo Memorial,Pueblo,CO,USA,38.28908722,-104.4965722
+LYH,337,Lynchburg Municipal-Preston Glenn ,Lynchburg,VA,USA,37.32668528,-79.20043056
+ACY,330,Atlantic City International,Atlantic City,NJ,USA,39.45758333,-74.57716667
+SJT,320,San Angelo Regional /Mathis ,San Angelo,TX,USA,31.35775,-100.4963056
+PIH,313,Pocatello Regional,Pocatello,ID,USA,42.91130556,-112.59586110000001
+DHN,307,Dothan ,Dothan,AL,USA,31.32133917,-85.44962889
+SMX,307,Santa Maria Pub/Capt G Allan Hancock ,Santa Maria,CA,USA,34.89924833,-120.4575825
+ADQ,300,Kodiak ,Kodiak,AK,USA,57.74996778,-152.4938553
+CWA,291,Central Wisconsin,Mosinee,WI,USA,44.77761917,-89.66677944
+BLI,280,Bellingham Intl,Bellingham,WA,USA,48.79275,-122.53752779999999
+HVN,274,Tweed-New Haven,New Haven,CT,USA,41.26389889,-72.8871
+BQN,266,Rafael Hernandez,Aguadilla,PR,USA,18.49486111,-67.12944444
+OXR,259,Oxnard,Oxnard,CA,USA,34.20080083,-119.20721640000001
+ISO,258,Kinston Regional Jetport At Stallin,Kinston,NC,USA,35.32807944,-77.61552611
+GTR,253,Golden Triangle Regional,Columbus-Starkville-West Point,MS,USA,33.45033444,-88.59136861
+GUC,252,Gunnison County,Gunnison,CO,USA,38.53396333,-106.9331817
+ABY,242,Southwest Georgia Regional,Albany,GA,USA,31.535515000000004,-84.19447333
+PIE,241,St. Petersburg-Clearwater International,St. Petersburg,FL,USA,27.91076333,-82.68743944
+GCN,233,Grand Canyon National Park,Grand Canyon,AZ,USA,35.95235389,-112.14696470000001
+DBQ,223,Dubuque Municipal,Dubuque,IA,USA,42.40295944,-90.70916722
+TXK,223,Texarkana Regional-Webb ,Texarkana,AR,USA,33.45370806,-93.99101999999999
+SCE,219,University Park,,,USA,40.851206,-77.84630200000001
+UCA,219,Oneida Cty,Utica,NY,USA,43.14511944,-75.38385889
+LCH,217,Lake Charles Regional,Lake Charles,LA,USA,30.126097499999997,-93.22340361
+MCN,215,Middle Georgia Regional,Macon,GA,USA,32.69284944,-83.64921083
+COD,214,Yellowstone Regional,Cody,WY,USA,44.52019417,-109.02379609999998
+ILE,210,Killeen Municipal,Killeen,TX,USA,31.08583333,-97.6865
+VLD,202,Valdosta Regional,Valdosta,GA,USA,30.7825,-83.27672222
+CCR,199,Buchanan ,Concord,CA,USA,37.98965639,-122.05689720000001
+SCK,196,Stockton Metro,Stockton,CA,USA,37.89426694,-121.2386203
+BQK,188,Glynco Jetport,Brunswick,GA,USA,31.25902778,-81.46630556
+CIC,188,Chico Municipal,Chico,CA,USA,39.79538278,-121.8584231
+BPT,188,Southeast Texas Regional,Beaumont/Port Arthur,TX,USA,29.95083333,-94.02069444
+DUT,187,Unalaska,Unalaska,AK,USA,53.90013889,-166.5435
+GGG,186,Gregg County,Longview,TX,USA,32.38486111,-94.71171
+CEC,173,Jack McNamara ,Crescent City,CA,USA,41.78015722,-124.23653329999999
+SPI,171,Capital,Springfield,IL,USA,39.84395194,-89.67761861
+IYK,168,Inyokern,Inyokern,CA,USA,35.65884306,-117.8295122
+TVL,166,Lake Tahoe,South Lake Tahoe,CA,USA,38.89388167,-119.9953347
+IPL,162,Imperial County,Imperial,CA,USA,32.83422028,-115.5787456
+AKN,159,King Salmon,King Salmon,AK,USA,58.67680167,-156.6492175
+MEI,152,Key ,Meridian,MS,USA,32.33313333,-88.75120556
+DLG,146,Dillingham,Dillingham,AK,USA,59.0454125,-158.5033389
+FLO,144,Florence Regional,Florence,SC,USA,34.18536111,-79.72388889
+MQT,135,Marquette County Airport,,,USA,46.353639,-87.395361
+APF,129,Naples Municipal,Naples,FL,USA,26.15247222,-81.77544444
+EAU,122,Chippewa Valley Regional,Eau Claire,WI,USA,44.86525722,-91.48507194
+EFD,117,Ellington ,Houston,TX,USA,29.60733333,-95.15875
+PMD,115,Palmdale Production Flight,Palmdale,CA,USA,34.62938889,-118.0845528
+CDC,115,Cedar City Muni,Cedar City,UT,USA,37.70097028,-113.098575
+ALO,111,Waterloo Municipal,Waterloo,IA,USA,42.55708139,-92.40034361
+ROR,101,Babelthoup/Koror,,,Palau,7.367222,134.544167
+LWS,84,Lewiston-Nez Perce County,Lewiston,ID,USA,46.37449806,-117.01539440000002
+YKM,83,Yakima Air Terminal,Yakima,WA,USA,46.56816972,-120.54405940000001
+PSE,82,Mercedita,Ponce,PR,USA,18.00830278,-66.56301194
+VCT,66,Victoria Regional,Victoria,TX,USA,28.85255556,-96.91848722
+WYS,66,Yellowstone,West Yellowstone,MT,USA,44.68839917,-111.1176375
+HHH,64,Hilton Head,,,USA,32.224384,-80.697629
+ACK,63,Nantucket Memorial,Nantucket,MA,USA,41.25305194,-70.06018139
+VIS,62,Visalia Municipal,Visalia,CA,USA,36.31866667,-119.3928889
+GST,60,Gustavus,Gustavus,AK,USA,58.42438139,-135.7073814
+ROP,59,Prachinburi,,,Thailand,14.078332999999999,101.378334
+TTN,58,Trenton-Mercer County ,Trenton,NJ,USA,40.27669111,-74.81346833
+LWB,53,Greenbrier Valley,Lewisburg,WV,USA,37.85830556,-80.39947222
+TUP,48,Tupelo Municipal ,Tupelo,MS,USA,34.26810833,-88.76989499999999
+YAP,37,Yap International,,,Federated States of Micronesia,9.5167,138.1
+EWN,34,Craven County Regional,New Bern,NC,USA,35.07297222,-77.04294444
+GCC,34,Gillette-Campbell County,Gillette,WY,USA,44.34889806,-105.5393614
+RFD,34,Greater Rockford,Rockford,IL,USA,42.19536389,-89.09721111
+ROW,31,Roswell Industrial Air Center,Roswell,NM,USA,33.30155556,-104.5305556
+PLN,25,Pellston Regional  of Emmet County,Pellston,MI,USA,45.5709275,-84.796715
+RKS,24,Rock Springs-Sweetwater County,Rock Springs,WY,USA,41.5942175,-109.0651928
+SLE,24,McNary Fld,Salem,OR,USA,44.90952778,-123.0025
+ILG,24,New Castle County ,Wilmington,DE,USA,39.67872222,-75.60652778
+HKY,24,Hickory Municipal,Hickory,NC,USA,35.74114639,-81.38954889
+KSM,23,St. Mary's,St. Mary's,AK,USA,62.06048639,-163.3021108
+ANI,21,Aniak,Aniak,AK,USA,61.58159694,-159.5430428
+TEX,18,Telluride Regional,Telluride,CO,USA,37.95375861,-107.90848000000001
+RHI,17,Rhinelander-Oneida County,Rhinelander,WI,USA,45.63119306,-89.46745361
+LMT,17,Klamath Falls International,Klamath Falls,OR,USA,42.15614361,-121.7332081
+OTH,15,North Bend Muni,North Bend,OR,USA,43.41713889,-124.2460278
+CMX,15,Houghton County Memorial,Hancock,MI,USA,47.16841722,-88.48906083
+INL,13,Falls International,International Falls,MN,USA,48.56618722,-93.40306667
+LNY,12,Lanai,Lanai City,HI,USA,20.78561111,-156.95141809999998
+MKK,11,Molokai,Kaunakakai,HI,USA,21.15288583,-157.0962561
+MKG,11,Muskegon County,Muskegon,MI,USA,43.16948806,-86.23822306
+ADK,10,Adak,Adak,AK,USA,51.87796389,-176.6460306
+SOP,8,Moore County,Pinehurst/Southern Pines,NC,USA,35.23735278,-79.39116944
+FOE,8,Forbes ,Topeka,KS,USA,38.95095194,-95.66361444
+BJI,7,Bemidji-Beltrami County,Bemidji,MN,USA,47.50942417,-94.93372333
+MTH,4,Florida Keys Marathon,Marathon,FL,USA,24.72614083,-81.05137806
+MIB,3,Minot AFB,,,USA,48.415769,-101.358039

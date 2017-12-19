@@ -1,0 +1,100 @@
+﻿SEOUL
+Sao Paulo
+Bombay
+JAKARTA
+Karachi
+MOSKVA
+Istanbul
+MEXICO
+Shanghai
+TOKYO
+New York
+BANGKOK
+BEIJING
+Delhi
+LONDON
+HongKong
+CAIRO
+TEHRAN
+BOGOTA
+Bandung
+Tianjin
+LIMA
+Rio de Janeiro
+Lahore
+Bogor
+SANTIAGO
+St Petersburg
+Shenyang
+Calcutta
+Wuhan
+Sydney
+Guangzhou
+SINGAPORE
+Madras
+BAGHDAD
+Pusan
+Los Angeles 
+Yokohama
+DHAKA
+BERLIN
+Alexandria
+Bangalore
+Malang
+Hyderabad
+Chongqing
+Ho Chi Minh City
+Haerbin
+ANKARA
+BUENOS AIRES
+Chengdu
+Ahmedabad
+Casablanca
+Chicago
+Xian
+MADRID
+Surabaya
+PYONGYANG
+Nanjing
+KINSHASA
+ROMA
+Taipei
+Osaka
+KIEV
+YANGON
+Toronto
+Zibo
+Dalian
+Taegu
+ADDIS ABABA
+Jinan
+Salvador
+Inchon
+Semarang
+Giza
+Changchun
+Havanna
+Nagoya
+Belo Horizonte
+PARIS
+TASHKENT
+Fortaleza
+Sukabumi
+California
+Guayaquil
+Qingdao
+Izmir
+Cirebon
+Taiyuan
+BRASILIA
+BUCURESTI
+Faisalabad
+Quezon City
+Medan
+Houston
+Abidjan
+Mashhad
+Medellín
+Kanpur
+BUDAPEST
+CARACAS
